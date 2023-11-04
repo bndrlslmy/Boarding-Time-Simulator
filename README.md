@@ -39,7 +39,7 @@ Before running the Boarding Time Simulator, ensure you have the following softwa
 
 
 # Authors
-- Abdullah Khamis Al-Bajli
+- Abdullah  Al-Bajli
 - Bandar Al-Salami
-- Ahmed Sultan Al-Jadaani
-- Fares Ali Al-Harithi
+- Ahmed  Al-Jadaani
+- Fares  Al-Harithi
