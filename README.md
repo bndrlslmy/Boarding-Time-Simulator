@@ -1,6 +1,7 @@
 
 # Boarding Time Simulator
 
+![7](https://github.com/bndrlslmy/Boarding-Time-Simulator/assets/91160602/4d1f4a6b-0a13-423b-9571-7adff031b141)
 
 
 ## Table of Contents
