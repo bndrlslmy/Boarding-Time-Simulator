@@ -2,13 +2,14 @@
 # Boarding Time Simulator
 
 
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Technical Stack](#technical-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-- [Authors](#Authors)
+- [Authors](#authors)
 
 ## Overview
 This project aims to create a Java-based simulation to model and predict the boarding times of 180 passengers onto an airplane. The simulation categorizes passengers into two distinct types: solo passengers and those with special needs, providing insights into how different boarding strategies affect overall boarding time. In the first phase, passengers board at random without any predetermined order, which serves as a control for boarding efficiency. The second phase introduces an optimized boarding process that prioritizes special needs passengers and organizes the boarding by seat proximity to the windows to minimize aisle congestion and interference delays. The simulation will utilize Java for the underlying algorithmic logic and JavaFX to create a graphical user interface (GUI), allowing for a visual and interactive representation of both boarding scenarios. The project's outcome is to analyze and compare the two methods, presenting data on which strategy yields a faster and more efficient boarding process.
@@ -38,6 +39,6 @@ Before running the Boarding Time Simulator, ensure you have the following softwa
 
 # Authors
 - Abdullah Khamis Al-Bajli
-- Bandar Al-Solami
+- Bandar Al-Salami
 - Ahmed Sultan Al-Jadaani
 - Fares Ali Al-Harithi
